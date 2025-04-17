@@ -102,13 +102,8 @@
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-19" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_-K3MDLd5xErvSqu6k3G-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FN9NgcvBm-vyUmjdJuyd-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-20" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="432" y="680" width="60" height="40" as="geometry" />
+          <mxGeometry x="432" y="680" width="58" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_-K3MDLd5xErvSqu6k3G-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FN9NgcvBm-vyUmjdJuyd-21">
           <mxGeometry relative="1" as="geometry">
@@ -246,6 +241,18 @@
         </mxCell>
         <mxCell id="_-K3MDLd5xErvSqu6k3G-79" value="Autor/a" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_-K3MDLd5xErvSqu6k3G-89" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="488" y="780" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_-K3MDLd5xErvSqu6k3G-90" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="900" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_-K3MDLd5xErvSqu6k3G-91" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_-K3MDLd5xErvSqu6k3G-92" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="619" y="800" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
