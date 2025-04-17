@@ -61,7 +61,7 @@
           <mxGeometry x="413" y="90" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-15" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="419" y="210" width="60" height="40" as="geometry" />
+          <mxGeometry x="413" y="210" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FN9NgcvBm-vyUmjdJuyd-16" target="FN9NgcvBm-vyUmjdJuyd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="348" y="240" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-28" value="Items" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="309" y="240" width="60" height="40" as="geometry" />
+          <mxGeometry x="340" y="210" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FN9NgcvBm-vyUmjdJuyd-31" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="413" y="380" width="60" height="40" as="geometry" />
