@@ -267,10 +267,10 @@
           <mxGeometry x="478.5" y="850" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_-K3MDLd5xErvSqu6k3G-92" value="Teléfono_1" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="760" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="760" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_-K3MDLd5xErvSqu6k3G-93" value="Telefono_2" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="820" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="820" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
